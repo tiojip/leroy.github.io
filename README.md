@@ -1,2 +1,2 @@
 # leroy.github.io
-Mon portfolio professionnel en Data &amp; Business Intelligence.
+Mon portfolio professionnel en Data | AI &amp; Business Intelligence.
